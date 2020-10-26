@@ -34,6 +34,8 @@
     - 床头增加壁灯
     - 床的中央双方增加三个开关，用于
       - 单控两侧壁灯，双控西侧2个顶灯
+  - 书房
+    - 顶灯改为轨道灯（四个小灯头）
 
 ![image](https://github.com/peacemakercq/HomeDesign/blob/main/%E7%81%AF%E5%BC%80%E5%85%B3%E5%A4%A9%E8%8A%B1%E5%9B%BE1026%E6%89%B9%E6%B3%A8_00.jpg)
 
