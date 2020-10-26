@@ -34,7 +34,7 @@
     - 床的中央双方增加三个开关，用于
       - 单控两侧壁灯，双控西侧2个顶灯
 
-![image](https://github.com/peacemakercq/HomeDesign/blob/main/%E6%8F%92%E5%BA%A7%E6%8E%92%E5%B8%83%E5%9B%BE1025%E6%89%B9%E6%B3%A8_00.jpg)
+![image](https://github.com/peacemakercq/HomeDesign/blob/main/%E7%81%AF%E5%BC%80%E5%85%B3%E5%A4%A9%E8%8A%B1%E5%9B%BE1026%E6%89%B9%E6%B3%A8_00.jpg)
 
 - 电源及插座
   - 入口开关移到厨房门旁边（靠室内一侧）
@@ -55,6 +55,9 @@
     - 东侧插座削减为2组，高度1m
     - 榻榻米地台中央下方留电源（升降机用），及插座2组（升降台升起时可用）
   - 零火线开关（用于智能家具）
+
+![image](https://github.com/peacemakercq/HomeDesign/blob/main/%E6%8F%92%E5%BA%A7%E6%8E%92%E5%B8%83%E5%9B%BE1025%E6%89%B9%E6%B3%A8_00.jpg)
+
 - 网络及其它
   - 网口需求
     - 客厅电视柜后方4个（电视盒，游戏机*2，NAS）
