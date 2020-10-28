@@ -69,6 +69,3 @@
   - 投影仪布线
       - 双HDMI口输入：电视柜后方一个，书房书桌上方一个（与上方插座一起）
   - 客厅留5.1音箱线
-
-
-![image](https://github.com/peacemakercq/HomeDesign/blob/main/%E6%8F%92%E5%BA%A7%E6%8E%92%E5%B8%83%E5%9B%BE1025%E6%89%B9%E6%B3%A8_00.jpg)
